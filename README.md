@@ -12,9 +12,9 @@
 
 ```javascript
 const aarondcosta99 = {
-  code: [C++,Kotlin,Java,HTML,CSS,Javascript, React.js],
-  tools: [Android Studio, Google Firebase's Cloud Firestore, Visual Studio Code],
-  challenge: "I am learning how to develop Web Applications using React.js"
+  front end: [HTML, CSS, Bootstrap, Javascript, React.js],
+  back end: [Node.js, Express.js, SQL, MongoDB],
+  tools: [Android Studio, Google Firebase, Cloud Firestore, Visual Studio Code]
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so feel free to contact me :)</em>
