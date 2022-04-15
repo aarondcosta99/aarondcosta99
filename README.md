@@ -5,4 +5,4 @@
 [![GitHub aarondcosta99](https://img.shields.io/github/followers/aarondcosta99?label=follow&style=social)](https://github.com/aarondcosta99)
 [![Linkedin: aarondcosta99](https://img.shields.io/badge/-aarondcosta99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aarondcosta99/)](https://www.linkedin.com/in/aarondcosta99/)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so feel free to contact me :)</em>
+<em><b>Do The Work.</em>
